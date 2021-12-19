@@ -6,6 +6,7 @@ import Project3 from './img/img/portfolio-3.jpg';
 import Project4 from './img/img/portfolio-4.jpg';
 import Project5 from './img/img/portfolio-5.jpg';
 import Project6 from './img/img/portfolio-6.jpg';
+import {Link} from "react-router-dom";
 
 function Project() {
   return (
@@ -33,7 +34,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Ethnic</h5>
                      <h4 className="project__text">Let the Indian-ness show</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <Link to="/ethnic" className="project__btn">View Details</Link>
                      </div>
                  </div>
              </div>
@@ -50,7 +51,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Western</h5>
                      <h4 className="project__text">Elegancy of the dressing</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <Link to='' className="project__btn">View Details</Link>
                      </div>
                  </div>
              </div>
@@ -67,7 +68,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Swimwear</h5>
                      <h4 className="project__text">Bikini ready all year round</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <Link to='' className="project__btn">View Details</Link>
                      </div>
                  </div>
              </div>
@@ -84,7 +85,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Lingerie</h5>
                      <h4 className="project__text">Because beauty begins underneath</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <Link to='' className="project__btn">View Details</Link>
                      </div>
                  </div>
              </div>
@@ -101,7 +102,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Bodouir</h5>
                      <h4 className="project__text">Red Lips, High Heels, No Apologies</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <Link to=''  className="project__btn">View Details</Link>
                      </div>
                  </div>
              </div>
@@ -118,7 +119,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Conceptual</h5>
                      <h4 className="project__text">I bring your art into my still</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <Link to='' className="project__btn">View Details</Link>
                      </div>
                  </div>
              </div>

@@ -38,15 +38,15 @@ function Service() {
               <div className="service__meta">
                 <h1 className="service__text">Product Photoshoot</h1>
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  Product enrichement by
                 </p>
 
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  adding glamour into it
                 </p>
 
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  
                 </p>
               </div>
             </div>
@@ -76,15 +76,15 @@ function Service() {
               <div className="service__meta">
                 <h1 className="service__text">Conceptual Photoshoot</h1>
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  I bring your idea, theme
                 </p>
 
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  and symbols into shape
                 </p>
 
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  
                 </p>
               </div>
             </div>
@@ -113,15 +113,15 @@ function Service() {
               <div className="service__meta">
                 <h1 className="service__text">Boudoir Photoshoot</h1>
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  I dautnlessly bring out
                 </p>
 
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  the initimate, erotic and 
                 </p>
 
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  flattery of me.
                 </p>
               </div>
             </div>
@@ -149,15 +149,15 @@ function Service() {
               <div className="service__meta">
                 <h1 className="service__text">Ramp Shows</h1>
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  I have experience in 
                 </p>
 
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  walking on the ramp
                 </p>
 
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  a decent amount of times
                 </p>
               </div>
             </div>
@@ -187,15 +187,15 @@ function Service() {
               <div className="service__meta">
                 <h1 className="service__text">Expo Modelling</h1>
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  From automobile to
                 </p>
 
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  industrial equipments,I
                 </p>
 
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  add glamour to your porduct
                 </p>
               </div>
             </div>
@@ -224,15 +224,15 @@ function Service() {
               <div className="service__meta">
                 <h1 className="service__text">Magazine shoot</h1>
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  From national to
                 </p>
 
                 <p className="p service__text p__color">
-                  I thow myself among the
+                   international,I have 
                 </p>
 
                 <p className="p service__text p__color">
-                  I thow myself among the
+                  covered it all
                 </p>
               </div>
             </div>
